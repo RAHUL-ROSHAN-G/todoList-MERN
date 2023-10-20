@@ -39,6 +39,9 @@ npm install express mongoose cors
 ```
 npm install nodemon
 ```
+
+### In 11th line of index.js please add your database link.
+
 ```
 npm start
 ```
