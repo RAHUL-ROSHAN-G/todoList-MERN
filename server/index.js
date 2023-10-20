@@ -8,7 +8,7 @@ app.use(cors())
 app.use(express.json())
 
 //database
-mongoose.connect('mongodb+srv://samganesh1973:rahulroshanganesh2002@cluster0.dsyilhk.mongodb.net/test')
+mongoose.connect('ADD YOUR DATABASE LINK HERE')
 
 app.get('/get', (req,res) =>{
     TodoModel.find()
