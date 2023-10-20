@@ -1,16 +1,16 @@
-# todoList-MERN
+# To Do List Application
+# Mongodb-Expressjs-Reactjs-Nodejs[MERN]
+
+![image](https://github.com/RAHUL-ROSHAN-G/todoList-MERN/assets/103802956/0f4be896-85f8-4502-85ac-00b2187ba971)
+
+![image](https://github.com/RAHUL-ROSHAN-G/todoList-MERN/assets/103802956/6db475f2-44d2-4a92-8ef1-ad7e046ae28a)
 
 ## I have uploaded only the important files here. Below I have mentioned how to download the files and run the program.
 
 ### In client side
+
 ```
-npm create vite@latest
-```
-- enter project name
-- select react
-- select javascript
-```
-cd <project name>
+cd todolist
 ```
 ```
 npm install
@@ -18,8 +18,6 @@ npm install
 ```
 npm install axios react-icons
 ```
-### Now inside the "src" folder replace App.jsx, App.css.
-### And add the rest of the file i.e., Create.jsx and Home.jsx file 
 
 And run the program:-
 ```
@@ -28,9 +26,8 @@ npm run dev
 
 ### In server side
 - open another terminal
-- create server file
+- inside the server file
 ```
-mkdir server
 cd server
 ```
 ```
@@ -45,16 +42,6 @@ npm install nodemon
 ```
 npm start
 ```
-
-- In this server folder it should contain index.js file
-- create Models folder
-
-```
-mkdir Models
-cd Models
-```
-
-- In this Models folder it should contain Todo.js file.
   
 ### Open your browser or [Click here](http://localhost:5173/) .
 
