@@ -1,4 +1,4 @@
-# To Do List Application
+# [LEARN] To Do List Application
 # Mongodb-Expressjs-Reactjs-Nodejs[MERN]
 
 ![image](https://github.com/RAHUL-ROSHAN-G/todoList-MERN/assets/103802956/0f4be896-85f8-4502-85ac-00b2187ba971)
@@ -50,3 +50,5 @@ npm start
 
 ## For Further any queries or how to run this project. 
 ## Feel free to contact me [here.](mailto:rahulroshanganesh2002@gmail.com)
+
+Credits: [Yousaf](https://youtu.be/BqRWK57dwqo?si=A7wl-hlIXr8ZrYU2) 
